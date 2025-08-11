@@ -16,7 +16,7 @@ It features a rich storytelling design with smooth GSAP animations, a pinned her
 
 ## 📸 Live Demo
 
-🔗 **[View Project on GitHub Pages](https://takshpatel02.github.io/craftedge/)**
+🔗 **[View Project on GitHub Pages](https://takshpatel02.github.io/CraftEdge/)**
 
 ---
 
@@ -70,3 +70,4 @@ imgs/
   ├── image.png
   └── stamp.png
 ```
+
